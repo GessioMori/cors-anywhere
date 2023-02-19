@@ -1,4 +1,4 @@
-const host = "cors-anywhere-production-5311.up.railway.app";
+const host = "localhost";
 const port = process.env.PORT || 8080;
 
 const cors_proxy = require("cors-anywhere");
