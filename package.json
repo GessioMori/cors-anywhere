@@ -3,10 +3,10 @@
     "cors-anywhere": "^0.4.4"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node app/server.js"
   },
   "name": "cors",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app/server.js",
   "license": "MIT"
 }
